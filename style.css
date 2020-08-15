@@ -1,0 +1,273 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	background-color:#ffffff;
+	height: 100px;
+	width: 100%;
+	/*border: 1px solid black;*/
+}
+.menu{
+	float: right;
+	margin-top: 29px;
+	margin-right: 100px;
+	height: 50px;
+	width: 45%;
+	/*border: 1px solid black;*/
+    
+}
+.menu ul{
+	float: right;
+       list-style-type: none;
+       
+  }    
+.menu ul li{
+	display: inline-block;
+	position: relative; 
+}
+.menu ul li a{
+	text-decoration: none;
+	margin: 10px;
+	padding: 4px;
+	border-radius:2px 5px;
+	line-height: 60px;
+	border: 1px solid #fff;
+	font-family:tahoma; 
+}
+.menu ul li:hover a{
+	background-color: #fff;
+	color:#000;
+	transition: 0.7s;
+}.name{
+	float: left;
+	height: 100px;
+	width: 45%;
+	/*border: 1px solid red;*/
+	
+}
+h2{
+   
+   height: 30px;
+	width: 50%;
+	margin-top:20px;
+	margin-left: 40%;
+	
+}
+p{
+	margin-left:40%;
+}
+.life{
+	
+	background-image: url(img/pahar.jfif);
+	padding: 200px; 
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-bottom: 3px solid aqua;
+
+	
+}
+.life2{
+	border-color: white;
+	
+	width: 500px;
+	margin-left: 15%;
+	
+	/*border: 1px solid red;*/
+}
+h6{
+	
+	margin-left:30%;
+	color:
+
+}
+.logo{
+	border-color: white;
+	height: 100px;
+	width: 400px;
+	margin-left:10%;
+	/*border: 1px solid red;*/
+}
+.logo h1{
+	font-size: 80px;
+}
+.btn{
+	margin-left:40%;
+	margin-top:45px;
+	padding: 15px;
+	border-radius: 10px;
+	background-color: black;
+	color: #fff;
+	border: 1px solid black;
+}
+.btn:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+  
+.right{
+	height: 700px;
+	width: 40%;
+	float: right;
+	background-color: white;
+	/* border: 1px solid black;*/
+	
+	}
+.right h1{
+	float: left;
+	padding-top: 40px;
+	padding-left: 50px;
+	/* border: 1px solid black;*/
+}
+.left{
+	height: 700px;
+	width: 59%;
+	float: left;
+    background: #e9f4f8;
+}
+.left img{
+	height: 700px;
+	width: 60%;
+	margin-left: 90px;
+    border-radius: 100%;
+}
+.text{
+	margin-top: 115PX;
+	 height: 400px;
+	width: 100%;
+	/* border: 5px solid black;*/
+}
+.text p{
+   float:left;
+   margin-top: 10px;
+   height: 25px;
+   margin-left: 40px;
+   text-align: center;
+   color:#898890; 
+   font-family: bodoni MT;
+   /*border: 1px solid black;*/
+}
+.text h2{
+	 float:left;
+   margin-top: 10px;
+   height:30px;
+   margin-left: 40px;
+   /*border: 1px solid black;*/
+}
+.p1{
+	 float:left;
+   margin-top: 10px;
+   height:40px;
+   margin-left: 30px;
+}
+
+.btn1{
+	margin-left:40%;
+	margin-top:65px;
+	padding: 15px;
+	border-radius: 10px;
+	background-color: black;
+	color: #fff;
+	border: 1px solid black;
+}
+.btn1:hover{
+	background-color: #fff;
+	color: #000;
+}
+.footer{
+	height: 100px;
+	width: 100%;
+	background-color: black;
+}
+
+
+
+.h4{
+	padding-top: 15px;
+	padding-left: 60%;
+	color:skyblue;
+	font-family: harlow solid;
+	/*border: 1px solid black;*/
+} 
+.reg{
+	height: 80px;
+	width: 59%;
+	float: left;
+    background: ;
+	/*border: 1px solid black;*/
+}
+.btn-right{
+	height: 100px;
+	width: 40%;
+	float: right;
+	background-color: white;
+	/*border: 1px solid black;*/
+	
+}
+.reg h1{
+   padding-left: 30%;
+   width: 40%;
+   font-family: cooper;
+  /* border: 1px solid black;*/
+}
+.input{
+	padding-left: 18%;
+	padding-top: 2%;
+
+}
+.first{
+	height: 30px;
+	width: 40%;
+}
+
+
+
+/*.btn2{
+	height: 20px;
+	width: 60px;
+	margin-bottom: 20px;
+     color: white;
+     background-color: black;
+	float: right;
+	border: 1px solid black;
+}*/
+.btn2{
+	margin-right:23%;
+	margin-bottom:90px;
+	padding: 8px;
+	border-radius: 10px;
+	float: right;
+	background-color: black;
+	color: #fff;
+	/*border: 1px solid red;*/
+}
+.btn2:hover{
+	background-color: #fff;
+	color: #000;
+}
+.btn3{
+	
+	margin-right:-30%;
+	margin-bottom:90px;
+	padding: 8px;
+	border-radius: 10px;
+	float: right;
+	background-color: black;
+	color: #fff;
+	/*border: 1px solid red;*/
+}
+.btn3:hover{
+	 background-color: #fff;
+	color: #000;
+}
+
+.btn4{
+	padding: 8px;
+	border-radius: 10px;
+	float: left;
+	background-color: black;
+	color: #fff;
+}
